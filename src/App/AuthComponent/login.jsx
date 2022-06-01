@@ -31,6 +31,7 @@ export default function Login() {
     };
     return (
         <div>
+        <h1>Login</h1>
             <div className="w-full bg-grey-500">
                 <div className="container mx-auto py-8">
                     <div className="w-96 mx-auto bg-white rounded shadow">
